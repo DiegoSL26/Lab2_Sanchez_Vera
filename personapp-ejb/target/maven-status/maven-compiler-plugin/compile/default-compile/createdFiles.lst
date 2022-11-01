@@ -1,0 +1,15 @@
+co\edu\javeriana\as\jakarta\personapp\ejb\beans\AbstractFacade.class
+co\edu\javeriana\as\jakarta\personapp\ejb\beans\impl\PersonaFacade.class
+co\edu\javeriana\as\jakarta\personapp\ejb\beans\impl\ProfesionFacade.class
+co\edu\javeriana\as\jakarta\personapp\ejb\beans\PersonaFacadeLocal.class
+co\edu\javeriana\as\jakarta\personapp\ejb\JakartaRestConfiguration.class
+co\edu\javeriana\as\jakarta\personapp\ejb\entities\Estudios.class
+co\edu\javeriana\as\jakarta\personapp\ejb\beans\ProfesionFacadeLocal.class
+co\edu\javeriana\as\jakarta\personapp\ejb\beans\TelefonoFacadeLocal.class
+co\edu\javeriana\as\jakarta\personapp\ejb\entities\Profesion.class
+co\edu\javeriana\as\jakarta\personapp\ejb\beans\impl\EstudiosFacade.class
+co\edu\javeriana\as\jakarta\personapp\ejb\beans\impl\TelefonoFacade.class
+co\edu\javeriana\as\jakarta\personapp\ejb\beans\EstudiosFacadeLocal.class
+co\edu\javeriana\as\jakarta\personapp\ejb\entities\Persona.class
+co\edu\javeriana\as\jakarta\personapp\ejb\entities\EstudiosPK.class
+co\edu\javeriana\as\jakarta\personapp\ejb\entities\Telefono.class
